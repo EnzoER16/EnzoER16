@@ -1,16 +1,27 @@
-## Hi there 👋
+#  ¡Hola! Soy Enzo 👋
 
-<!--
-**EnzoER16/EnzoER16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estudiando La tecnicatura en Desrrollo de Software. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🔧 Me gusta trabajar con **Python**
+- 📚 Actualmente aprendiendo **Flet**
+- 🧩 Interesado en **desarrollo android / web / windows**
+- 🎯 Objetivo actual: **mejorar mis habilidades y construir proyectos útiles**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+![Lenguajes](https://skillicons.dev/icons?i=python,html,css&theme=dark)
+
+### Frameworks y herramientas
+![Herramientas](https://skillicons.dev/icons?i=mysql,flask,git,github&theme=dark)
+
+---
+
+## 📫 Contacto
+- 📧 Email: enzo.e.rojas@gmail.com
+- 🌐 Portfolio: [enzoer16.github.io](https://enzoer16.github.io)
