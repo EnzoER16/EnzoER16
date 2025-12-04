@@ -1,6 +1,6 @@
 #  ¡Hola! Soy Enzo 👋
 
-Actualmente estudiando La tecnicatura en Desrrollo de Software. 
+Actualmente estudiando la tecnicatura en Desarrollo de Software. 
 
 ## 🚀 Sobre mí
 - 🔧 Me gusta trabajar con **Python**
