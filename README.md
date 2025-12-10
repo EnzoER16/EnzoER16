@@ -19,7 +19,6 @@ Actualmente estudiando la tecnicatura en Desarrollo de Software.
 ## 📊 Estadísticas de GitHub
 
 ![](https://github-readme-stats.vercel.app/api?username=EnzoER16&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EnzoER16&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoER16&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📫 Contacto
